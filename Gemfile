@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+
+#for shoppe
+gem 'shoppe', '~> 1.0'
+
 #for password
 gem 'bcrypt', '~> 3.1.7'
 
